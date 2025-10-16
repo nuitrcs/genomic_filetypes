@@ -1,5 +1,4 @@
 # Filetypes and Quality Control
 
-This repository contains materials for the "Filetypes and Quality Control" workshop taught as part of the Foundations in Genomic Analyses series at Northwestern University in fall quarter 2024. 
+This repository contains materials for the "Filetypes and Quality Control" workshop taught as part of the Foundations in Genomic Analyses series at Northwestern University by Haley Carter in fall quarter of 2024 and by Iris Liu in fall quarter of 2025. The slides for each iteration are availble here as PDFs. The workshop covers the structure and use of common sequencing filetypes, including the difference between fasta and fastq, and zipped and unzipped files, as well as linux utilities to interact with them. The workshop also demonstrates using FastQC to summarize sequence quality. FastQC has both a graphical user interface (GUI) and command-line utilities. The in-person workshop walks attendees through launching the GUI with resources from Northwestern's HPC system, Quest, via Quest OnDemand.
 
-This workshop is written and taught by Haley Carter, Computational Specialist with Research Computing and Data Services at Northwestern IT. 
